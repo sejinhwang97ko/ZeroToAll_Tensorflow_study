@@ -1,5 +1,5 @@
 Linear Regression: 데이터를 잘 대변하는 직선의 방정식(기울기와 y절편을 가지고 있음)을 찾는 것
-Hypothesis함수: H(x) = Wx + b
+Hypothesis함수(우리의 모델): H(x) = Wx + b
 H(x) - y 를 cost or loss or error 라고 함
 어떤 부분은 양수로 나타나고 어떤 부분은 음수로 나타나기 때문에
 error 값을 제곱을 사용
